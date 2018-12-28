@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/whh1126/render/issues"
   },
-  "homepage": "https://github.com/whh1126/render#readme"
+  "homepage": "https://github.com/whh1126/render#readme",
+  "dependencies": {
+    "gulp-sass": "^4.0.2"
+  }
 }
